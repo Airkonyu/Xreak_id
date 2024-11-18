@@ -1,37 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "博客（死了）",
+    "link": "https://blog.kypan.top/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "123盘",
+    "link": "https://www.123684.com/s/sOKrVv-rbCX"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Cloud",
+    "name": "Huang盘",
+    "link": "https://pan.huang1111.cn/s/weGO5FK"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://limestart.cn/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "小米官包",
+    "link": "https://xiaomirom.com/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "Soc天梯榜",
+    "link": "https://www.socpk.com/cpu/"
   },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
-  }
 ]
